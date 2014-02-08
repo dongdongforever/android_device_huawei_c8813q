@@ -1,3 +1,0 @@
-add_lunch_combo huawei_C8813Q-userdebug
-add_lunch_combo cm_C8813Q-userdebug
-add_lunch_combo cm_C8813Q-eng

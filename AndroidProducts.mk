@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/C8813Q.mk
+    $(LOCAL_DIR)/device_c8813q.mk
